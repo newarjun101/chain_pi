@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "291796020846",
+    "firebase_url": "https://chainpi01.firebaseio.com",
+    "project_id": "chainpi01",
+    "storage_bucket": "chainpi01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291796020846:android:3c74d1a763c3274975407f",
+        "android_client_info": {
+          "package_name": "com.chainpi.product.hertz.company.chain_pi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291796020846-qlo2n1pe6alj10f2k6s8nfjp1v5hrs5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXD8YoXBQ8Kp5gRxnxJqlC1dOKpwKR_aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291796020846-qlo2n1pe6alj10f2k6s8nfjp1v5hrs5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
